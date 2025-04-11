@@ -1,26 +1,31 @@
-Housing Price Prediction App
-This is a simple Streamlit web app that predicts Median House Value based on Total Rooms using Linear Regression.
+# 🏡 Housing Price Prediction App
 
-What It Does
-Loads a housing dataset (housing.csv)
+This is a simple **Streamlit** web app that predicts **Median House Value** based on **Total Rooms** using **Linear Regression**.
 
-Trains a Linear Regression model using scikit-learn
+## 📊 What It Does
 
-Visualizes the regression line and real data using matplotlib
+- Loads a housing dataset (`housing.csv`)
+- Trains a Linear Regression model using `scikit-learn`
+- Visualizes the regression line and real data using `matplotlib`
+- Displays predictions for any number of total rooms
+- Evaluates model performance (MAE, RMSE, R²)
 
-Displays predictions for any number of total rooms
+## 🚀 Live Demo
 
-Evaluates model performance (MAE, RMSE, R²)
+👉 [Click to view the deployed app](https://st1909-streamlit1-yourapp.streamlit.app)
 
-Technologies Used
-Python
+## 🧰 Technologies Used
 
-Pandas
+- Python
+- Pandas
+- NumPy
+- scikit-learn
+- Matplotlib
+- Streamlit
 
-NumPy
+## 🛠️ Setup Instructions
 
-scikit-learn
-
-Matplotlib
-
-Streamlit
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/st1909/streamlit1.git
+   cd streamlit1
