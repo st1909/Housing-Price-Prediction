@@ -12,7 +12,8 @@ This is a simple **Streamlit** web app that predicts **Median House Value** base
 
 ## 🚀 Live Demo
 
-👉 [Click to view the deployed app]((http://localhost:8501/))
+[Open the app locally](http://localhost:8502/)
+
 
 ## 🧰 Technologies Used
 
